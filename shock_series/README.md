@@ -8,9 +8,4 @@
 </ol>
 <p><strong>Observation Period:</strong> December 1970 - October 2022</p>
 <p><em>Note: </em>Each row represents the observations for a given month.</p>
-<p>&nbsp;</p>
-<p><strong>Construction Details:</strong></p>
-<p><em>1) Baseline Shock Regression<br /></em></p>
-<p>&nbsp;</p>
 
-$$cap_t = \boldsymbol{\alpha}_0' \, \mathbf{month}_t + \alpha_1 \, cap_{t-1} + s_t$$
